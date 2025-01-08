@@ -10,6 +10,8 @@ The project utilizes the SentenceTransformer model (`all-MiniLM-L6-v2`) to gener
 
 The project uses a JSON file (`questions.json`) as input.  The JSON file should contain a list of dictionaries, where each dictionary represents an FAQ. Each dictionary should include a `question_text` field.
 
+Adding a new line
+- This project is using LLMS for clusteting
 
 ## Dependencies
 
